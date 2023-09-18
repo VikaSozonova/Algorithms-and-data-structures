@@ -1,0 +1,14 @@
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\bin\Debug\net6.0\Задача2.exe
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\bin\Debug\net6.0\Задача2.deps.json
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\bin\Debug\net6.0\Задача2.runtimeconfig.json
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\bin\Debug\net6.0\Задача2.dll
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\bin\Debug\net6.0\Задача2.pdb
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\obj\Debug\net6.0\Задача2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\obj\Debug\net6.0\Задача2.AssemblyInfoInputs.cache
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\obj\Debug\net6.0\Задача2.AssemblyInfo.cs
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\obj\Debug\net6.0\Задача2.csproj.CoreCompileInputs.cache
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\obj\Debug\net6.0\Задача2.dll
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\obj\Debug\net6.0\refint\Задача2.dll
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\obj\Debug\net6.0\Задача2.pdb
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\obj\Debug\net6.0\Задача2.genruntimeconfig.cache
+C:\Users\Winston\Desktop\Вышка\Алгоритмы\Занятие1\Задача2\obj\Debug\net6.0\ref\Задача2.dll
